@@ -1,5 +1,5 @@
 # gbclock
-The first proper clock for the Game Boy
+The first proper clock for the Game Boy.
 
 ## Features
 * Accurate time **from the RTC**
