@@ -20,7 +20,7 @@ Tested with:
 * [Everdrive x7](https://krikzz.com/our-products/cartridges/edgbx7.html)
 * [BennVenn's MBC3000 MBC3 cart](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart?variant=39901988454503)
 * [HDR's MBC3 Flashcart](https://github.com/HDR/MBC3-Flashcart)
-* [HDR's MBC30 Flashcart](https://github.com/HDR/MBC30-Flashcart)
+* [HDR's MBC30 Flashcart](https://github.com/HDR/MBC30-Flashcart) One user had 2 kernel panics using the MBC30 with the Analoge Pocket. Not sure what the problem was.
 * [insideGadget's MBC3](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/) 
 * insideGadget's MBC3 4MB variant
 * flash converted MBC3 cartridge (DMG-KFDN-10 with [J.Rodrigo's adapter](https://www.jrodrigo.net/project/flash-memory-adapter-for-some-game-boy-cartridges/))
