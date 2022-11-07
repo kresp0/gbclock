@@ -23,8 +23,6 @@ It will automatically show the clock at boot.
 
 Press Select to set up the time.
 
-Source code and assets
-The source code and all assets used in the clock are available on github and published under the CC0. Feel free to customize and do whatever you want!
-
-https://github.com/kresp0/gbclock/​
+## License
+The source code and assets used in the clock are available under the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). Feel free to customize and do whatever you want with it!
 
