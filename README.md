@@ -8,6 +8,7 @@ The first proper clock for the Game Boy.
 * Moving dot
 * Hourly chimes
 * It keeps the time even when powered off
+* [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 Other homebrew clocks use CPU cycles to keep track of the time, and that makes those clocks drift more than one minute per hour.
 
