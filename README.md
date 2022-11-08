@@ -41,3 +41,8 @@ Press Select to set up the time.
 ## License
 The source code and assets used in the clock are available under the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). Feel free to customize and do whatever you want with it!
 
+## Other clocks for the Game Boy
+* pixjuan's [clockboy](https://github.com/pixjuan/clockboy), made for GB Compo 21​​
+* [GBClock](http://www.devrs.com/gb/files/software.html), Jeff Frohwein's **talking clock** from 1997​
+
+
