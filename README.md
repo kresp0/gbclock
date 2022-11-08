@@ -26,6 +26,7 @@ Tested with:
 * flash converted MBC3 cartridge (DMG-KFDN-10 with [J.Rodrigo's adapter](https://www.jrodrigo.net/project/flash-memory-adapter-for-some-game-boy-cartridges/))
 
 Not tested (yet) but it should work:
+* [EZ flash junior](https://www.ezflash.cn/product/ezflash-junior/)
 * [insideGadget's MBC3 RTC LinkNLoad USB Flash Cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/) 
 * other flashcarts with MBC3 support **and RTC**.
 
