@@ -13607,7 +13607,7 @@
                 {
                     "command": "EVENT_MUSIC_PLAY",
                     "args": {
-                        "musicId": "b95687e0-8bfa-4daf-bc42-6e10aada53ef"
+                        "musicId": "99aa73df-d49b-46be-93bb-b33b6125b66a"
                     },
                     "id": "7bc6aa89-55df-41ed-990b-15b4b256dcc1"
                 },
@@ -13863,46 +13863,6 @@
     ],
     "music": [
         {
-            "id": "b95687e0-8bfa-4daf-bc42-6e10aada53ef",
-            "name": "Clock",
-            "symbol": "song_clock",
-            "filename": "Clock.mod",
-            "settings": {},
-            "type": "mod"
-        },
-        {
-            "id": "a5d1a098-2f2e-4262-bd33-ba2fe6488f41",
-            "name": "Clock2",
-            "symbol": "song_clock2",
-            "filename": "Clock2.mod",
-            "settings": {},
-            "type": "mod"
-        },
-        {
-            "id": "80a8b6ba-c393-44ac-a633-064f873b5490",
-            "name": "song-d",
-            "symbol": "song_song_d",
-            "filename": "song-d.mod",
-            "settings": {},
-            "type": "mod"
-        },
-        {
-            "id": "a401ad92-dce9-44ac-ba9e-0da6a78afb20",
-            "name": "song-e",
-            "symbol": "song_song_e",
-            "filename": "song-e.mod",
-            "settings": {},
-            "type": "mod"
-        },
-        {
-            "id": "e6bb1323-0341-43d8-9e89-4e487d7c506f",
-            "name": "song-f",
-            "symbol": "song_song_f",
-            "filename": "song-f.mod",
-            "settings": {},
-            "type": "mod"
-        },
-        {
             "id": "99aa73df-d49b-46be-93bb-b33b6125b66a",
             "name": "song_template",
             "symbol": "song_song_template",
@@ -13931,72 +13891,7 @@
         }
     ],
     "avatars": [],
-    "emotes": [
-        {
-            "id": "9df5f63f-ea47-447e-9b14-cb2dbafb697d",
-            "name": "anger",
-            "symbol": "emote_anger",
-            "width": 16,
-            "height": 16,
-            "filename": "anger.png"
-        },
-        {
-            "id": "edf96d29-9a08-4813-b2d3-46e0996f89f2",
-            "name": "love",
-            "symbol": "emote_love",
-            "width": 16,
-            "height": 16,
-            "filename": "love.png"
-        },
-        {
-            "id": "f1be2ac3-04ab-482a-8b83-99ffba1a89cd",
-            "name": "music",
-            "symbol": "emote_music",
-            "width": 16,
-            "height": 16,
-            "filename": "music.png"
-        },
-        {
-            "id": "d508e529-57eb-458b-9782-66f318243c32",
-            "name": "pause",
-            "symbol": "emote_pause",
-            "width": 16,
-            "height": 16,
-            "filename": "pause.png"
-        },
-        {
-            "id": "70a4ce25-1fe4-4ab1-aee9-21255e70fb76",
-            "name": "question",
-            "symbol": "emote_question",
-            "width": 16,
-            "height": 16,
-            "filename": "question.png"
-        },
-        {
-            "id": "56423c9c-dca0-4f5b-ad92-28e9660d50f1",
-            "name": "shock",
-            "symbol": "emote_shock",
-            "width": 16,
-            "height": 16,
-            "filename": "shock.png"
-        },
-        {
-            "id": "2d4b251d-0241-40eb-98e1-e396b236772c",
-            "name": "sleep",
-            "symbol": "emote_sleep",
-            "width": 16,
-            "height": 16,
-            "filename": "sleep.png"
-        },
-        {
-            "id": "3c769dca-51f3-426c-942f-71c4d3af6202",
-            "name": "sweat",
-            "symbol": "emote_sweat",
-            "width": 16,
-            "height": 16,
-            "filename": "sweat.png"
-        }
-    ],
+    "emotes": [],
     "variables": [
         {
             "id": "0",
