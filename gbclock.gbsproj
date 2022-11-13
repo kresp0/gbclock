@@ -16053,6 +16053,7 @@
     "music": [
         {
             "id": "99aa73df-d49b-46be-93bb-b33b6125b66a",
+<<<<<<< HEAD
             "name": "campanada",
             "symbol": "song_song_template",
             "filename": "campanada.uge",
@@ -16105,6 +16106,13 @@
             "type": "wav",
             "inode": "95295497",
             "_v": 1668104523520
+=======
+            "name": "song_template",
+            "symbol": "song_song_template",
+            "filename": "song_template.uge",
+            "settings": {},
+            "type": "uge"
+>>>>>>> da672e2ff4513fc89c349ffb7786a5f1346649d2
         }
     ],
     "fonts": [
