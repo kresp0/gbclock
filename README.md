@@ -3,6 +3,7 @@ The first proper clock for the Game Boy.
 
 ## Features
 * Accurate time **from the RTC**
+* Day of the week
 * Big numbers
 * Vertical orientation
 * Moving dot
