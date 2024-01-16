@@ -31,7 +31,7 @@ Not tested (yet) but it should work:
 * [insideGadget's MBC3 RTC LinkNLoad USB Flash Cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/) 
 * other flashcarts with MBC3 support **and RTC**.
 
-I'm powering it with a USB to 3.5mm barrel jack cable **with the polarity reversed**, connected to an old phone charger.
+I'm powering it with a USB to 3.5mm barrel jack cable **with the polarity reversed** (center negative), connected to an old phone charger.
 
 ## Instructions
 
