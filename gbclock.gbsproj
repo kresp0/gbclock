@@ -15777,6 +15777,24 @@
                                     "clamp": false
                                 },
                                 "id": "b55ccbda-866c-4346-a345-23a23f80ecc0"
+                            },
+                            {
+                                "command": "PT_EVENT_RTC_SET",
+                                "args": {
+                                    "variableDays": "3",
+                                    "valueDays": 0,
+                                    "typeDays": "variable",
+                                    "variableHours": "0",
+                                    "valueHours": 0,
+                                    "typeHours": "variable",
+                                    "variableMinutes": "1",
+                                    "valueMinutes": 0,
+                                    "typeMinutes": "variable",
+                                    "variableSeconds": "2",
+                                    "valueSeconds": 0,
+                                    "typeSeconds": "variable"
+                                },
+                                "id": "f324852b-69e4-4e2a-b88d-8f04489118f4"
                             }
                         ],
                         "false": []
